@@ -1,3 +1,12 @@
+"""Uses seaborn.violinplot for a visual that shows the distribution shape of income data across education levels.
+
+Demonstrates clear economic modeling application (education vs. income).
+
+Can be modified for real-world datasets, e.g., from pandas-datareader or public sources like OECD.
+
+"""
+
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
